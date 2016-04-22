@@ -4,3 +4,5 @@ obj-$(CONFIG_MACH_SPADE) += spade-panel.o
 obj-$(CONFIG_MACH_VIVO) += vivo-panel.o
 obj-$(CONFIG_MACH_VIVOW) += vivow-panel.o
 obj-$(CONFIG_MACH_VISION) += vision-panel.o
+obj-$(CONFIG_MACH_VISION) += kingdom-panel.o
+
