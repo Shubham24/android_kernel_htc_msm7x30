@@ -34,7 +34,7 @@
 #include "devices.h"
 #include "board-kingdom.h"
 #include "proc_comm.h"
-#include "board-common-wimax.h"
+
 
 #include "pm.h"
 
